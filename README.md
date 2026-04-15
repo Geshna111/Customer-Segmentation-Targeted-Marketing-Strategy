@@ -1,0 +1,1 @@
+# Customer-Segmentation-Targeted-Marketing-Strategy
