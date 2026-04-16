@@ -78,7 +78,7 @@ This highlights strong revenue concentration, where a small percentage of high-v
 → Goal: Reduce churn and recover customers  
 
 ## Business Impact
-Segment-based marketing enables businesses to allocate resources efficiently and maximize ROI by targeting customers based on their behavior and value.
+Segment-based marketing allows businesses to allocate resources more efficiently, prioritize high-value customers, and design targeted interventions that directly impact revenue and retention.
 
 By focusing on high-value and at-risk segments, companies can:
 - Increase retention rates
