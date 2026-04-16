@@ -36,6 +36,15 @@ This transformation converts raw transactional data into meaningful customer-lev
 ### 🔴 At Risk Customers
 - Low activity, infrequent purchases, and high likelihood of churn
 
+## Segment Distribution & Revenue Contribution
+
+- High Value Customers → 0.3% of customers, contributing ~18.6% of total revenue  
+- Loyal Customers → 4.7% of customers, contributing ~29.1% of total revenue  
+- Potential Customers → 70.4% of customers, contributing ~46.6% of total revenue  
+- At Risk Customers → 24.6% of customers, contributing ~5.8% of total revenue  
+
+This highlights strong revenue concentration, where a small percentage of high-value and loyal customers contribute a disproportionately large share of total revenue.
+
 ## Key Visualizations
 
 ### Customer Segment Distribution
