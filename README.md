@@ -45,7 +45,7 @@ This transformation converts raw transactional data into meaningful customer-lev
 
 This highlights strong revenue concentration, where a small percentage of high-value and loyal customers contribute a disproportionately large share of total revenue.
 
-This indicates a strong Pareto distribution, where a small fraction of customers drive a majority of revenue, making targeted retention and upselling strategies critical.
+This indicates a strong Pareto distribution, where a small fraction of customers drive a majority of revenue, making targeted retention and upselling strategies critical for maximizing profitability.
 
 ## Key Visualizations
 
