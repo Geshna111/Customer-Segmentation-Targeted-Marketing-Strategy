@@ -57,6 +57,7 @@ This highlights strong revenue concentration, where a small percentage of high-v
 - Applied K-Means clustering on scaled RFM features
 - Optimal clusters determined using Elbow Method
 - Segments labeled based on behavioral patterns and business interpretation
+- Features were standardized before clustering to ensure equal contribution across Recency, Frequency, and Monetary dimensions.
 
 ## Business Strategies
 
